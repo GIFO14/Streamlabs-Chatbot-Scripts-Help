@@ -1,5 +1,5 @@
 # Streamlabs-Chatbot-Scripts-Help
-Here you are going to find a lot of information (which is not found [here](https://github.com/StreamlabsSupport/Streamlabs-Chatbot) for programming Streamlabs Chatbot scripts. (It's not finished yet)
+Here you are going to find a lot of information (which is not found [here](https://github.com/AnkhHeart/Streamlabs-Chatbot-Python-Boilerplate/wiki/Basic-Structure) for programming Streamlabs Chatbot scripts. (It's not finished yet)
 
 ## Pre-built Classes and its members
 
