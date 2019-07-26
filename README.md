@@ -20,6 +20,6 @@ Variable type is indicated in the parenthesis after the variable.
   
  `data` is a parameter of the `Execute()` required function.
  
-- data
+- `data`
   - `.User` <-- Is the user who has sent a message
   - `.UserName` <-- Is the name of the user who has sent a message. It is a string.
