@@ -17,9 +17,9 @@ Variable type is indicated in the parenthesis after the variable.
   - `.GetPoints(whom_to_get_points`(data.User)`)`
   - `.RemovePoints(user_name`(str)`, points_amount`(int)`)`
   
+  
+ `data` is a parameter of the `Execute()` required function.
+ 
 - data
-
-`data` is a parameter of the `Execute()` required function.
-
   - `.User` <-- Is the user who has sent a message
   - `.UserName` <-- Is the name of the user who has sent a message. It is a string.
