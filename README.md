@@ -14,5 +14,7 @@ Variable type is indicated in the parenthesis after the variable.
   - `.GetCooldownDuration(ScriptName`(str)`, command_on_cooldown`(str)`)`
   - `.GetUserCooldownDuration(ScriptName`(str)`, command_on_cooldown`(str)`, user_on_cooldown`(data.User)`)`
   - `.AddPoints(whom_to_add_points`(str)`, points_amount`(int)`)`
+  - `.GetPoints(whom_to_get_points`(data.User)`)`
+  - `.RemovePoints(user_name`(str)`, points_amount`(int)`)`
   
 - data
