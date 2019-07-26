@@ -1,5 +1,5 @@
 # Streamlabs-Chatbot-Scripts-Help
-Here you are going to find valuable information for programming Streamlabs Chatbot scripts. (It's not finished yet)
+Here you are going to find a lot of information (which is not found [here](https://github.com/StreamlabsSupport/Streamlabs-Chatbot) for programming Streamlabs Chatbot scripts. (It's not finished yet)
 
 ## Pre-built Classes and its members
 
@@ -18,3 +18,8 @@ Variable type is indicated in the parenthesis after the variable.
   - `.RemovePoints(user_name`(str)`, points_amount`(int)`)`
   
 - data
+
+`data` is a parameter of the `Execute()` required function.
+
+  - `.User` <-- Is the user who has sent a message
+  - `UserName` <-- Is the name of the user who has sent a message. It is a string.
