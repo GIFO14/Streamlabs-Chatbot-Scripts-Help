@@ -13,6 +13,6 @@ Variable type is indicated in the parenthesis after the variable.
   - `.IsOnUserCooldown(ScriptNane`(str)`, command_on_cooldown`(str)`, user_on_cooldown`(data.User)`)`
   - `.GetCooldownDuration(ScriptName`(str)`, command_on_cooldown`(str)`)`
   - `.GetUserCooldownDuration(ScriptName`(str)`, command_on_cooldown`(str)`, user_on_cooldown`(data.User)`)`
-  - `.AddPoints()`
+  - `.AddPoints(whom_to_add_points`(str)`, points_amount`(int)`)`
   
 - data
