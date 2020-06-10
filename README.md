@@ -5,7 +5,6 @@ Here you are going to find a lot of information (which is not found [here](https
 
 Variable type is indicated in the parenthesis after the variable.
 - `Parent`
-  - `.IsChatMessage()`
   - `.SendStreamMessage(message`(str)`)`
   - `.AddCooldown(ScriptName`(str)`, command_to_cooldown`(str)`, seconds_to_cooldown`(int)`)`
   - `.AddUserCooldown(ScriptName`(str)`, command_to_cooldown`(str)`, user_to_cooldown`(data.User)`, seconds_to_cooldown`(int)`)`
@@ -23,3 +22,4 @@ Variable type is indicated in the parenthesis after the variable.
 - `data`
   - `.User` <-- Is the user who has sent a message
   - `.UserName` <-- Is the name of the user who has sent a message. It is a string.
+  - `.IsChatMessage()`
